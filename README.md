@@ -99,15 +99,9 @@ Prefer double-clicking? Run `setup.bat` once, then open `project_time_tracker.py
 ## 🧰 Tech Stack
 
 | Tool | What it's used for |
-
 |---|---|
-
 | **Python 3.10+** | The programming language |
-
 | **Tkinter** | The windows, buttons and timers (it comes with Python) |
-
 | **openpyxl** | Reading and writing the Excel file |
-
 | **zoneinfo + tzdata** | Converting between time zones, including daylight saving |
-
 | **pytest** | Automated tests |
