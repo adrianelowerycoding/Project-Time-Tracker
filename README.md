@@ -24,7 +24,7 @@ _Disclaimer: Since I originally created this program for the company I work at, 
 
 ## ✍️ Authors
 
-Built by [@adrianelowerycoding](https://github.com/adrianelowerycoding).
+I'm Adrian Lowery ([@adrianelowerycoding](https://github.com/adrianelowerycoding)). I'm an aspiring SWE trying to create both open-source solutions to common automation problems and contribution opportunities to those who need it. 
 
 ## 🚀 Usage
 
