@@ -1,4 +1,4 @@
-"""Tests for SessionLog: turning a stopped timer into a logged entry."""
+"""Tests for logging a time entry: a stopped timer becoming a session entry."""
 
 import datetime
 
